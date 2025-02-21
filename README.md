@@ -1,8 +1,4 @@
-# CognoRise-InfoTech
-
 Data Analytics Projects Repository : This repository contains 3 data analytics projects focused on predictive modeling and segmentation :
-
-These projects are assigned to me as a Data Analytics intern at : https://cognoriseinfotech.com/ 
 
 1. 80 CEREALS :  An explained data analysis that uncovers the hidden truths behind your favorite breakfast cereals.
 
